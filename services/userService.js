@@ -4,3 +4,5 @@ export function findUserByName(name) {
   const sql = `SELECT * FROM users WHERE name = '${name}'`;
   return dbExecute(sql);
 }
+
+// added comment
