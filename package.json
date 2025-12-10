@@ -1,0 +1,12 @@
+{
+  "name": "case5",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.1",
+    "eslint-plugin-security": "^3.0.1"
+  }
+}
